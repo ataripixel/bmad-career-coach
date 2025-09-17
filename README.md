@@ -356,4 +356,4 @@ This expansion pack follows the BMad Method framework and is designed for profes
 
 ---
 
-Version: 1.0 Compatible with: BMad Method v4
+Version: 1.0.0 Compatible with: BMad Method v4
