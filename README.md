@@ -356,4 +356,4 @@ This expansion pack follows the BMad Method framework and is designed for profes
 
 ---
 
-**Ready to advance your career with expert guidance? Start with any agent and let's create your path to success!** 🚀
+Version: 1.0 Compatible with: BMad Method v4
