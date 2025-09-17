@@ -4,6 +4,8 @@
 
 The BMad Career Coach Expansion Pack is a comprehensive career development system that helps users create professional, ATS-optimized resumes, develop strategic career plans, and excel in interviews through expert guidance and preparation.
 
+This expansion pack extends the BMad method, See https://github.com/bmad-code-org/BMAD-METHOD for details.
+
 ## Features
 
 ### 🎯 **Professional Resume Creation**
